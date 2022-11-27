@@ -9,3 +9,11 @@ This project is the result of what I did during my internship at the Electronics
 5. Fontawesome 6
 6. JQuery
 7. Ajax
+
+## Instalation
+1. Clone repository
+    `git clone https://github.com/ilhamfadli/scm-fuzzy-tsukamoto-kp`
+2. Install Dependencies
+    `composer install`
+3. Run Program
+    `./run`
