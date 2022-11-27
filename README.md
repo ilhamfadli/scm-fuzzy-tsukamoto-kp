@@ -12,8 +12,8 @@ This project is the result of what I did during my internship at the Electronics
 
 ##Instalation
 1. Clone repository
-`git clone https://github.com/ilhamfadli/scm-fuzzy-tsukamoto-kp`
+    `git clone https://github.com/ilhamfadli/scm-fuzzy-tsukamoto-kp`
 2. Install Dependencies
-`composer install`
+    `composer install`
 3. Run Program
-`./run`
+    `./run`
